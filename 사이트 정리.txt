@@ -1,0 +1,42 @@
+- pythontutor.com
+- lab.ssafy ??
+swea?
+
+project ssafy
+
+
+프로그램설치
+https://abit.ly/pb-document
+
+1. API??
+2. 파이참?
+
+3. 노션?맠단?
+4. notebook
+
+알고리즘 CS공부
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+gitlab
+pull
+jupyter 자료?
+
+5&6번파일?
+
+**함수
+**재귀함수 연구
+map zip
+packing unpacking**
+
+
+ㅡㅡㅡㅡ
+교안
+온라인실습실
+백준
+
+별그리기
+
+빌트인함수공부
+
+<월말평가사용불가능>
+min max sum count (len)
+==>> 반복문으로 구현하기
