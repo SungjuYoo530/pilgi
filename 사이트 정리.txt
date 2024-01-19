@@ -4,6 +4,7 @@ swea?
 
 project ssafy
 
+lab.ssafy.com/s11/python/python
 
 프로그램설치
 https://abit.ly/pb-document
